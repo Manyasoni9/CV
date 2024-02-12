@@ -1,0 +1,37 @@
+body{
+        background-color:  white;
+   }
+    hr {
+        border-style: none;
+        border-top-style: dotted;
+        border-color: gray;
+        background-color: white;
+        height: 0px;
+        border-width: 8px;
+        width: 5%;
+    }
+    h1{
+      color: #597E52;
+      font-size: 40px;
+    }
+    .top-container{
+        margin-left: 20px;
+    }
+    .University{
+        font-size: 20px;
+    }
+    .student{
+        font-size: 20px;
+        width: 1075px;
+    }
+    h2{color: #597E52;}
+    .middle-container{
+        font-size: 17px;
+    }
+    .container{
+        margin-left: 30px;
+    }
+    .hobbies{
+        font-size: 25px;
+        
+    }
